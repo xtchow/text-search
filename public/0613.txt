@@ -1,0 +1,47 @@
+ Sarah Chow       +1 (646) 854-2569     sarah@xtchow.com     github.com/xtchow     linkedin.com/in/xtchow TECHNICAL SKILLS
+JavaScript (+ TypeScript) • Python • React (+ Redux, Next.js) • Node (+ Express) • Webpack • Vite • SQL (Postgres) • NoSQL (MongoDB) • GraphQL • jQuery • Bootstrap (+ Tailwind) • Chakra UI • Chai (+ Jasmine, Mocha, Jest, Cypress) • Docker (+ Kubernetes)
+EXPERIENCE
+Software Engineer — Poseidon | a cluster visualization and cost analysis tool developed under OSLabs 2022 - present
+● Implemented server-side rendering with Next.js to optimize the app's responsiveness, user experience, and improve SEO.
+● Conducted end-to-end testing with Cypress, ensuring consistent delivery of feature requirements and objectives.
+● Utilized TypeScript’s type safety features to reduce runtime errors and promote code maintainability throughout development.
+● Leveraged Docker to ensure consistent performance of interdependent apps by isolating their environments and enabling flexible
+scaling processes; this reduced deployment time and minimized the risk of conflicts and errors.
+● Streamlined container deployments with Kubernetes to ensure efficient integration with an existing CI/CD pipeline and maintain
+effective management of the containerized infrastructure, resulting in enhanced performance and cost efficiency.
+● Simplified UI design with Tailwind's composable approach to build a style system, enhancing the presentation of functionalities.
+OPEN SOURCE CONTRIBUTIONS
+Frontend Software Engineer — Umpire | a film endorsement app for companions 2023
+● Employed PostgreSQL as the primary data store, to provide efficient and dependable data management, leading to enhanced app reliability, and accelerated data insights through faster query production.
+● Developed maintainable applications using Redux Toolkit, resulting in improved development workflow.
+● Configured Webpack to bundle and optimize app assets, preprocess dependencies, and transpiled code with Babel for robust
+cross-browser compatibility, unlocking the full potential of modern development features.
+● Expanded comprehensive and reliable test suites using Jest, increasing code quality and improving development workflow.
+● Integrated an external database API to leverage its extensive collection of movie data and metadata to provide users with rich and
+dynamic content, which resulted in an engaging user experience and improved application functionality.
+Backend Software Engineer — PaperPrompts 2.0 | an iteration of a flash cards app 2022
+● Improved session management using Express Session middleware, which provided scalable and secure user authentication.
+● Optimized data exchange with Axios’ promise-based API, resulting in better application performance, the ability to handle multiple
+requests at once, and allowing for the creation of interceptors.
+● Engineered a secure and user-friendly authentication system by integrating Google OAuth, allowing a seamless user experience and
+improved security measures to protect sensitive user information.
+● Incorporated Redux into an existing codebase to manage application state and improve code maintainability while creating custom
+middleware to extend functionality which contributed scalability with refined performance.
+Backend Developer — Off My Couch | an event finder web app 2021
+● Utilized Vite's responsive hot module reload to dynamically update the interface in real-time based on user interactions, ensuring a swift browsing experience on any device, improving engagement and satisfaction.
+● Designed and developed with Express 4.0, 10+ RESTful API endpoints that enabled smooth communication between the front and back-end components, resulting in a significant improvement in the application's scalability and performance.
+● Improved application performance by implementing React Router, optimizing page loading speeds and overall navigation.
+● Revamped the site's styling architecture using Sass' nesting feature which simplified code structure, produced maintainable style
+modules, and led to faster site performance through transpiled and minified CSS.
+● Developed visually appealing web interfaces using Bootstrap, ensuring cross-browser compatibility for mobile-first layouts.
+Full Stack Developer — Comets | a social media web app 2020
+● Created dynamic UIs using React, contributing to codebase modularity, increased user engagement, and overall satisfaction.
+● Implemented a NoSQL database to handle large amounts of unstructured data and provide flexible schema design, ensuring that the
+system is scalable and can handle future growth and increased demand.
+● Established a robust web-based application with Node, resulting in efficient data processing for high-traffic.
+● Employed the Twitter API to display real-time trending topics and hashtags within the social media web app, providing users with
+up-to-the-minute information and insights into the latest social media trends.
+EDUCATION
+Resident — Codesmith | an advanced software engineering immersive program 2022 Houston Community College | Major in Computer Science
+INTERESTS
+      Chess • Piano • Taekwondo • Weightlifting • Stationery
