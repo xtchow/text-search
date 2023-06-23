@@ -1,4 +1,4 @@
-import { Client, Entity, Schema, Repository } from 'redis-om';
+import { Client, Entity, Schema } from 'redis-om';
 
 const client = new Client();
 const connect = async function() {
@@ -41,7 +41,7 @@ const redis = {
     await connect();
 
     const repo = client.fetchRepository(fileSchema);
-    console.log('repo', repo);
+    console.log('L44 repo', repo);
     const files = await repo.search()
       .where('name').eq(query)
       .or('text').matches(query)
@@ -52,8 +52,8 @@ const redis = {
     await connect();
 
     const repo = client.fetchRepository(fileSchema);
-    const files = await repo.search().return.all();
-    return files;
+    const total = await repo.search().return.all();
+    return total;
   }
 };
 export default redis;
